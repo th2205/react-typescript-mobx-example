@@ -1,0 +1,30 @@
+.async-bg {
+  width: 100%;
+  height: 100vh;
+  background: #74ebd5;
+  background: -webkit-linear-gradient(to right, #acb6e5, #74ebd5);
+  background: linear-gradient(to right, #acb6e5, #74ebd5);
+  text-align: center;
+}
+
+.async-container {
+  width: 400px;
+  min-height: 450px;
+  height: auto;
+  background-color: white;
+  border-radius: 10px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.async-title {
+  font-size: 30px;
+  color: #2c3e50;
+}
+
+.cat-img {
+  width: 300px;
+  height: 300px;
+}
